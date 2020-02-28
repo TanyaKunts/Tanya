@@ -17,9 +17,7 @@ body{
     display: flex;
     justify-content: space-between;
 }
-.header .logo{
-    
-}
+
 .header h2{
     font-size: 34px;
     margin:0;
